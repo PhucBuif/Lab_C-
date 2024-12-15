@@ -4,7 +4,7 @@ from random import randint, shuffle, choice, choices
 import random  # Để giữ hàm random() nguyên bản
 
 
-import time
+
 
 class Policy2210xxx(Policy):
     def __init__(self, policy_id=1):
